@@ -1,11 +1,16 @@
 _repo: A-year-among-the-trees-b-or-the-woods-and-by-ways-of-New-England_72670
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 72670-h/images/cover.jpg
 creator:
   author:
     agent_name: Flagg, Wilson
     gutenberg_agent_id: '56773'
     url: http://www.gutenberg.org/2009/agents/56773
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72670#A-year-among-the-trees-b-or-the-woods-and-by-ways-of-New-England
 gutenberg_issued: '2024-01-09'
 gutenberg_type: Text
 identifiers:
